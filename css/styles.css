@@ -66,6 +66,14 @@
   background-image: url(../assets/img/students-portal/cpencils.png);
   height: 450px;
 }
+.bg-parents {
+  background-size: cover;
+  display: block;
+  background-repeat: no-repeat;
+  background-image: url(../assets/img/parents-portal/parentBanner.png);
+  height: 450px;
+}
+
 
 .color.lighten-1 {
   background-color: #0bc6f5 !important;
