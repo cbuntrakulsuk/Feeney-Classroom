@@ -73,6 +73,14 @@
   background-image: url(../assets/img/parents-portal/parentBanner.png);
   height: 450px;
 }
+.bg-academics {
+  background-size: cover;
+  display: block;
+  background-repeat: no-repeat;
+  background-image: url(../assets/img/academics/academicBanner.png);
+  height: 450px;
+}
+
 
 
 .color.lighten-1 {
@@ -226,7 +234,7 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #2c3e50;
   text-decoration: none;
   background-color: transparent;
 }
