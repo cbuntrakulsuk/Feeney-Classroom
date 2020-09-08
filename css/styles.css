@@ -80,7 +80,13 @@
   background-image: url(../assets/img/academics/academicBanner.png);
   height: 450px;
 }
-
+.bg-form {
+  background-size: cover;
+  display: block;
+  background-repeat: no-repeat;
+  background-image: url(../assets/img/parents-portal/conf.png);
+  height: 450px;
+}
 
 
 .color.lighten-1 {
